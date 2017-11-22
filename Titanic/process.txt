@@ -1,0 +1,12 @@
+
+process:
+1. simple model
+
+2. feature engineering--auto
+3. model selection(CV)+parameter tuning
+
+4. data visualization + analysis
+5. stacking
+
+6. final(data visualization + analysis + feature engineering + CV model selection + parameter tuning + stacking)
+
